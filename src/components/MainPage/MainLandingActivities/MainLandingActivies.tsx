@@ -14,7 +14,7 @@ function MainLandingActivies() {
                             <h4 className='text-slate-100 text-center lg:text-xl lg:text-left'>წადი თავგადასავლებზე!</h4>
                         </div>
                         <div className='flex flex-col items-center justify-center'>
-                            <h5 className='text-gray-300 text-center text-sm lg:text-lg lg:text-left'>გარეთ იმდენი თავგადასავალი გელოდება, რო რავი, ძაან მაგარია კაროჩე რა, იმენა მაგარია ბოზი ვიყო, ძაან გაერთობი შიგნითაც
+                            <h5 className='text-gray-300 text-center text-sm lg:text-lg lg:text-left'>გარეთ იმდენი თავგადასავალი გელოდება, რომ, შენ მოწყენილი და უსაქმური არასდროს დარჩები
                                 და გარეთაც.
                             </h5>
                         </div>

@@ -15,14 +15,14 @@ function Navbar() {
                 alt="კოტეჯის ლოგო"
               />
               <span className="self-center whitespace-nowrap text-sm md:text-md font-semibold text-slate-100">
-                გიას კოტეჯები
+                X.O Bakuriani
               </span>
             </Nav.Brand>
             <Nav.Toggle className='bg-white'/>
-            <Nav.Collapse className='justify-center items-center'>
-              <Nav.Link href="#" className='flex h-full justify-center items-center text-slate-100 hover:text-primary hover:bg-blue-900 font-semibold'>ჩვენ შესახებ</Nav.Link>
-              <Nav.Link href="#" className='flex h-full justify-center items-center text-slate-100 hover:text-primary hover:bg-blue-900 font-semibold'>ფასები</Nav.Link>
-              <Nav.Link href="#" className='flex h-full justify-center items-center text-slate-100 hover:text-primary hover:bg-blue-900 font-semibold'>კონტაქტი</Nav.Link>
+            <Nav.Collapse className='justify-center items-center bg-darkBackground lg:bg-transparent'>
+              <Nav.Link href="/about" className='flex h-full justify-center items-center text-slate-100 hover:text-primary hover:bg-blue-900 font-semibold'>ჩვენ შესახებ</Nav.Link>
+              <Nav.Link href="/prices" className='flex h-full justify-center items-center text-slate-100 hover:text-primary hover:bg-blue-900 font-semibold'>ფასები</Nav.Link>
+              <Nav.Link href="/contact" className='flex h-full justify-center items-center text-slate-100 hover:text-primary hover:bg-blue-900 font-semibold'>კონტაქტი</Nav.Link>
               <Button color="primary">დაგვიკავშირდი</Button>
             </Nav.Collapse>
           </Nav>
