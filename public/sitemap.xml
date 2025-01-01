@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Home Page -->
+  <url>
+    <loc>https://tallycottages.tally.ge/</loc>
+    <lastmod>2024-06-11</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- FAQ Page -->
+  <url>
+    <loc>https://tallycottages.tally.ge/faq</loc>
+    <lastmod>2024-06-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- About Us Page -->
+  <url>
+    <loc>https://tallycottages.tally.ge/about</loc>
+    <lastmod>2024-06-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Prices Page -->
+  <url>
+    <loc>https://tallycottages.tally.ge/prices</loc>
+    <lastmod>2024-06-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- View Cottage Page -->
+  <url>
+    <loc>https://tallycottages.tally.ge/cottage</loc>
+    <lastmod>2024-06-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact Page -->
+  <url>
+    <loc>https://tallycottages.tally.ge/contact</loc>
+    <lastmod>2024-06-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Error 404 Page (Optional) -->
+  <url>
+    <loc>https://tallycottages.tally.ge/404</loc>
+    <lastmod>2024-06-11</lastmod>
+    <priority>0.1</priority>
+  </url>
+</urlset>

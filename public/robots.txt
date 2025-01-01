@@ -1,3 +1,6 @@
-# https://www.robotstxt.org/robotstxt.html
+# Allow all search engines
 User-agent: *
 Disallow:
+
+# Reference to sitemap
+Sitemap: https://tallycottages.tally.ge/sitemap.xml
